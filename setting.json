@@ -1,0 +1,175 @@
+{
+    "editor.fontFamily": "Dank Mono",
+    "terminal.integrated.lineHeight": 1.2,
+    "editor.lineHeight": 2,
+    "emmet.includeLanguages": {
+        "blade": "html",
+        "vue-html": "html",
+        "vue": "html",
+        "react": "html",
+        "javascript": "html"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[tailwindcss]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "prettier.requireConfig": true,
+    "prettier.useEditorConfig": false,
+    "explorer.sortOrder": "type",
+    "prettier.tabWidth": 2,
+    "workbench.tree.indent": 15,
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features",
+        "editor.formatOnSave": true
+    },
+    "editor.wordWrapColumn": 120,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "editor.formatOnSave": true
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.formatOnSave": true,
+    "terminal.integrated.fontFamily": "SpaceMono Nerd Font",
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.minimap.enabled": false,
+    "editor.stickyScroll.enabled": false,
+    "explorer.confirmDelete": false,
+    "editor.autoClosingBrackets": "always",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "workbench.colorTheme": "Aura Dracula Spirit",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.editor.tabSizing": "shrink",
+    "workbench.editor.pinnedTabsOnSeparateRow": true,
+    "workbench.editor.limit.value": 5,
+    "workbench.editor.limit.enabled": true,
+    "editor.tabSize": 2,
+    "terminal.integrated.fontSize": 12,
+    "editor.formatOnSaveMode": "file",
+    "editor.tokenColorCustomizations": {
+        "textMateRules": [
+            {
+                "scope": [
+                    "comment",
+                    "keyword",
+                    "variable.language",
+                    "constant.language",
+                    "variable",
+                    "variable.other",
+                    "function",
+                    "entity.name.function",
+                    "entity.name.class",
+                    "entity.name.type",
+                    "entity.name.tag",
+                    "string",
+                    "string.quoted",
+                    "string.interpolated",
+                    "meta",
+                    "constant.numeric",
+                    "constant.character",
+                    "markup.bold",
+                    "markup.italic"
+                ],
+                "settings": {
+                    "fontStyle": ""
+                }
+            }
+        ]
+    },
+    "editor.lineNumbers": "relative",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "files.autoSave": "afterDelay",
+    "editor.hover.enabled": false,
+    "editor.scrollbar.verticalScrollbarSize": 2,
+    "editor.scrollbar.horizontalScrollbarSize": 2,
+    "editor.guides.highlightActiveBracketPair": false,
+    "editor.guides.indentation": false,
+    "editor.guides.highlightActiveIndentation": false,
+    "workbench.layoutControl.enabled": false,
+    "editor.cursorBlinking": "solid",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "workbench.editor.showTabs": "single",
+    "material-icon-theme.hidesExplorerArrows": true,
+    "workbench.colorCustomizations": {
+        "editorSuggestWidget.selectedBackground": "#231739",
+        "sideBar.background": "#140E1A",
+        "list.activeSelectionBackground": "#231739",
+        "list.inactiveFocusBackground": "#231739",
+        "list.focusBackground": "#231739",
+        "scrollbarSlider.background": "#ff99f3",
+        "editorLineNumber.foreground": "default",
+        "editorLineNumber.activeForeground": "#ff99f3",
+        "terminalCursor.foreground": "#ff99f3"
+    },
+    "editor.fontLigatures": true,
+    "scm.compactFolders": false,
+    "git.decorations.enabled": false,
+    "scm.diffDecorations": "none",
+    "files.insertFinalNewline": true,
+    "extensions.ignoreRecommendations": true,
+    "terminal.integrated.tabs.enabled": false,
+    "workbench.statusBar.visible": false,
+    // "window.titleBarStyle": "native",
+    "apc.electron": {
+        "frame": false,
+        "titleBarStyle": "hidden"
+    },
+    "apc.font.family": "Dank Mono",
+    "window.menuBarVisibility": "toggle",
+    "apc.menubar.compact": true,
+    "workbench.tree.renderIndentGuides": "none",
+    "workbench.startupEditor": "none",
+    "workbench.activityBar.location": "bottom",
+    "apc.activityBar": {
+        "position": "bottom",
+        "size": 20,
+        "itemMargin": 10
+    },
+    "update.mode": "manual",
+    "apc.listRow": {
+        "lists": [
+            "customview-tree",
+            "results",
+            "open-editors",
+            "explorer-folders-view",
+            "outline-tree",
+            "scm-view",
+            "debug-view-content",
+            "debug-breakpoints",
+            "tree",
+            "quick-input-list"
+        ],
+        "height": 30
+    },
+    "workbench.sideBar.location": "right",
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "java.help.firstView": "none",
+    "workbench.tips.enabled": false,
+    "editor.formatOnPaste": true,
+    "[java]": {
+        "editor.defaultFormatter": "redhat.java"
+    }
+}
